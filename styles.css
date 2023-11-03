@@ -1,0 +1,48 @@
+/* add your CSS here */
+.card {
+
+  border-spacing: 2px;
+  width: 302px;
+}
+
+.name { 
+  
+  font-weight: bold; 
+  font-size: 20pt;
+  margin: 1px; 
+}
+
+.description { 
+  
+  list-style-type: none;
+  
+}
+
+.facts span { 
+  
+  font-style: italic;
+  font-weight: bold;
+}
+
+.facts {
+  
+ /* margin: 2px; */
+  border-style: ridge;
+  padding: 5px;
+}
+
+.content {
+  
+  width: 301px;
+  border-style: solid;
+  padding: 6px;
+  border-width: thin;
+  box-shadow: 5px 10px #d3d3d3
+  
+}
+
+.Leo {
+  
+   border: ridge #d3d3d3;
+   border-style: ridge;
+}
